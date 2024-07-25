@@ -22,4 +22,4 @@ Nesse repositório você ira encontrar uma das coisas que aprendi no módulo de 
 Como o próprio nome do repositório já diz, eu consegui fazer uma estilização interna, ela é parecida com a estilização inline já que as duas são realizadas no própio HTML, a única diferença é que utilizo a tag 'style' dentro da 'head' para força a estilização no HTML.
 
 ## Dificuldades 
-Talvez por ser CSS básico ou porque o método de ensino dos gêmeos seja bom; mas eu não tive dificuldades em entender as fucionalidades das propriedades aprendidas nesse módulo.
+Talvez por ser CSS básico ou porque o método de ensino dos gêmeos seja bom; mas eu não tive dificuldades em entender as fucionalidades das propriedades aprendidas nesta aula.
